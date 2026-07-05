@@ -4,6 +4,7 @@ Python and Streamlit. It uses Machine Learning to analyze and predict
 environmental conditions across India.
  https://green-sphere.streamlit.app/
 The project has three modules:
+
  🏭 Air Quality
  
 Select any city and get a 5-day AQI forecast, built from real forecasted pollutant data (via the Open-Meteo Air Quality API) fed into a trained ML model (RandomForest / GradientBoosting, whichever performs best per city).
